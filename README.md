@@ -21,6 +21,8 @@ pindahan dari lokal
 
 Ket: untuk isian ODBC, bisa dinamakan sesuka hati, dan untuk user x, x adalan user anda, jika tidak memiliki user, maka isikan sebagai root
 
+Ket2: Jika di ODBC berbeda di Project ini, edit file Module1.vb, ganti Dsn='token listrik' menjadi '_yang_di_odbc_anda'
+
 # Known Bug
 
 - Report belum bisa
