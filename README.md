@@ -17,7 +17,7 @@ pindahan dari lokal
 
 # Cara Pakai
  *diharapkan sudah menginstall Crystal Report 6.5 dan MySql Connector
-- sambungkan Database ke ODBC dengan klik New -> Mysql Driver 5.1 -> isikan nama "tiang listrik", server localhost, user x -> pilih db_tiang_listrik
+- sambungkan Database ke ODBC dengan klik New -> Mysql Driver 5.1 -> isikan nama "tiang listrik", server localhost, user x -> pilih db_listrik
 
 Ket: untuk isian ODBC, bisa dinamakan sesuka hati, dan untuk user x, x adalan user anda, jika tidak memiliki user, maka isikan sebagai root
 
