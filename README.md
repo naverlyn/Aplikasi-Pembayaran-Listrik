@@ -1,11 +1,11 @@
 # Aplikasi-Pembayaran-Listrik
 
 # Requirement
- Visual Studio 2015
- Crystal Report 6.5
- XAMPP
- ODBC
- MySql Connector
+ - Visual Studio 2015
+ - Crystal Report 6.5
+ - XAMPP
+ - ODBC
+ - MySql Connector
  
  
 pindahan dari lokal
